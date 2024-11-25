@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Braian Ledantes's logo](https://github.com/braianledantes/braianledantes/blob/main/logo.png)
+![Braian Ledantes's logo](https://github.com/braianledantes/braianledantes/blob/main/logo256.png)
 
 - 🎓 I’m studying at UNCO
 - 🌱 I’m currently learning NestJs and Angular for fun
