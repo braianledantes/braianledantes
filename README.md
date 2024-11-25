@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-<img src="https://github.com/braianledantes/braianledantes/blob/main/logo.png" width="124" >
+![Braian Ledantes's logo](https://github.com/braianledantes/braianledantes/blob/main/logo.png)
 
 - 🎓 I’m studying at UNCO
 - 🌱 I’m currently learning NestJs and Angular for fun
 
 ## 📈 GitHub Profile Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent )
 
-![Braian Ledantes's GitHub stats](https://github-readme-stats.vercel.app/api?username=braianledantes&show_icons=true&layout=donut&theme=tokyonight)
+![Braian Ledantes's GitHub stats](https://github-readme-stats.vercel.app/api?username=braianledantes&show_icons=true&layout=donut&theme=transparent )
 
 
 ## 💻 Known technologies
